@@ -5,7 +5,7 @@
     margin-top: 5rem;
     background-image: linear-gradient(to bottom, transparent 0%, transparent 50%, v.$primario 50%, v.$primario 100%), url(../img/propiedad_destacada.jpg);
     background-size: 100%, cover;
-    background-position: center, -80rem -30rem;
+    background-position: center, -30rem -20rem;
     background-repeat: no-repeat;
 
     @include m.tablet { 
